@@ -1,0 +1,9 @@
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/exceptions/ReadFileException.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/commands/FileReplace.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/operations/OperationsInterface.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/operations/FileOperations.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/exceptions/InvalidParametersException.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/editors/StreamEditor.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/editors/EditorInterface.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/Main.java
+/home/gpurnarov/projects/stream-editor/src/main/java/com/company/exceptions/WriteFileException.java

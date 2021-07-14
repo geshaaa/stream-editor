@@ -1,0 +1,9 @@
+com/company/Main.class
+com/company/operations/OperationsInterface.class
+com/company/exceptions/InvalidParametersException.class
+com/company/exceptions/ReadFileException.class
+com/company/operations/FileOperations.class
+com/company/editors/StreamEditor.class
+com/company/exceptions/WriteFileException.class
+com/company/editors/EditorInterface.class
+com/company/commands/FileReplace.class
